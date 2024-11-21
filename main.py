@@ -6,3 +6,6 @@ def say_hello1():
 
 def say_hello2():
     return "Assalomu alaykum"
+
+def test0():
+    return "test0"
