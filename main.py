@@ -9,3 +9,6 @@ def say_hello2():
 
 def test0():
     return "test0"
+
+def test1():
+    return "test1"
